@@ -33,7 +33,7 @@
 > A full-stack e-commerce app with Firebase auth, Stripe payments, and product listing.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="80%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHN1ajdvc2FmcWdndTRwY2NwaTl5bmozc2tzYTl0eXQweHQ3NDB3NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/MD0svLSDeudszrNrp0/giphy.gif" width="80%"/>
 </p>
 
 🔗 [Live Demo](#) | 📁 [Source Code](#)
@@ -45,7 +45,7 @@
 > Detects masked/unmasked faces using OpenCV and machine learning.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xUOxf48e6U1bkhB1GU/giphy.gif" width="70%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW5tYWVxbzhsNnFuOW1maWxjenZ1ZHJiMjg5OXZrMjRkamd4d2FnYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/coxQHKASG60HrHtvkt/giphy.gif" width="70%"/>
 </p>
 
 📁 [View Project](#)
@@ -57,7 +57,7 @@
 > An IoT + algorithmic logic project for dynamic light control based on motion.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="50%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmhqajdndGJldXV0MnZoZWFseXFqM2Zha2djYTdtYWFrempwM2RmeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dgNV583CaXV9rl1M4h/giphy.gif" width="50%"/>
 </p>
 
 📁 [View Details](#)
