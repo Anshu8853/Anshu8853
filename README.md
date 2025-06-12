@@ -67,7 +67,7 @@
 > A React.js weather app using WeatherAPI.com to fetch live temperature, condition icons, and animated background. Built with TailwindCSS, Framer Motion, and fully responsive.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjZ4eG9kdGc3YnZzOHlkNTI5am9ybmtzdzhlNWZqdHlxdGdkY3R6NiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l4FGkdtLGfpUiBdFC/giphy.gif" width="80%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3Y2FqZm8yeTF6NWF4cW43eDI1ZXQweDZyYWNhYzVsMDN6MGdyOWp4diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VdKEHcPsjrlQv9Cv5n/giphy.gif" width="80%"/>
 </p>
 
 🔗 [Live Demo](https://your-weather.vercel.app) | 📁 [Source Code](https://github.com/Anshu8853/weather-app)
