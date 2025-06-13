@@ -60,7 +60,7 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczg3ZWdzc3J3dGJpczRrMmJibXByOWZ5b3Y2NGs5eG1pdmdsMnQ2aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT5LMH2EtmWMYZXjhu/giphy.gif" width="50%"/>
 </p>
 
-📁 [View Details](#)
+📁 [View Details](https://www.tinkercad.com/things/0YANcnWl9nz-/editel?returnTo=%2Fthings%2F0YANcnWl9nz)
 
 #### 🌤️ Weather App
 
