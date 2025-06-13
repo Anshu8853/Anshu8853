@@ -57,7 +57,7 @@
 > An IoT + algorithmic logic project for dynamic light control based on motion.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmhqajdndGJldXV0MnZoZWFseXFqM2Zha2djYTdtYWFrempwM2RmeiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/dgNV583CaXV9rl1M4h/giphy.gif" width="50%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczg3ZWdzc3J3dGJpczRrMmJibXByOWZ5b3Y2NGs5eG1pdmdsMnQ2aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xT5LMH2EtmWMYZXjhu/giphy.gif" width="50%"/>
 </p>
 
 📁 [View Details](#)
