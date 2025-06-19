@@ -72,6 +72,17 @@
 
 🔗 [Live Demo](https://your-weather.vercel.app) | 📁 [Source Code](https://github.com/Anshu8853/react-weather-app)
 
+---
+
+#### 📬 XKCD Email Subscription System
+
+> A pure PHP-based comic delivery system where users can subscribe/unsubscribe to receive daily XKCD comics. Includes OTP verification, file-based email storage, and a cron-based comic scheduler. Uses PHP's built-in `mail()` function — no external libraries or frameworks.
+
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXliemw3ZHBvZ2J3ZzYwMWtvaWxmeDNnM29nd3l6ODg5Zmpla2M0bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aOften89vRbG/giphy.gif" width="75%"/>
+</p>
+
+🔗 [Live Demo ](http://localhost/xkcd-email-subscription/src/index.php) | 📁 [Source Code](https://github.com/Anshu8853/xkcd-email-subscription)
 
 ---
 
